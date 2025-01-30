@@ -1,0 +1,3 @@
+mkdir lile_backend
+cd lile_backend
+mkdir static, templates
